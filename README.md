@@ -86,7 +86,3 @@ java -cp ".:junit-platform-console-standalone.jar" org.junit.platform.console.Co
 ## Development Notes
 
 Developed to model architecture and clean code applications utilizing native Java components and Swing.
-
----
-
-This project was developed as part of a university Object-Oriented Programming course.
